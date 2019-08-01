@@ -1,0 +1,3 @@
+[submodule "awslogs"]
+	path = awslogs
+	url = https://github.com/claratech/awslogs.git
